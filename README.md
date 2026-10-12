@@ -9,4 +9,4 @@
 
  ## Fun Fact:
 
-- You can also use the Hurd Kernel if you use Guix Linux, which is the kernel R.M.Stallman worked on before linux
+- You can also try the [Hurd kernel](https://guix.gnu.org/en/blog/2024/hurd-on-thinkpad/) if you use [Guix/Guix](https://guix.gnu.org/en/) Linux, which is the kernel R.M.Stallman worked on before linux
